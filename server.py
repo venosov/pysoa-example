@@ -1,4 +1,4 @@
-from pysoa.server import Server
+from pysoa.server.server import Server
 from pysoa.server.action import Action
 
 
